@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2860094a-0089-4914-97e8-fb0c3e703730" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/sem2 task1/DateValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sem2 task1/sem2 task1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sem2 task2/sem2 task2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sem2 task2/src/PalindromeChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sem2 task2/src/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sem2 task3/sem2 task3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sem2 task3/src/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sem2 task3/src/StringSorter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sem2 task4/sem2 task4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sem2 task4/src/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sem2 task4/src/Statistics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DateValidator.java" beforeDir="false" />
-    </list>
+    <list default="true" id="2860094a-0089-4914-97e8-fb0c3e703730" name="Changes" comment="add" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,6 +65,19 @@
       <option name="presentableId" value="Default" />
       <updated>1727978771623</updated>
     </task>
+    <task id="LOCAL-00001" summary="add">
+      <option name="closed" value="true" />
+      <created>1727985459426</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727985459426</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add" />
+    <option name="LAST_COMMIT_MESSAGE" value="add" />
   </component>
 </project>
