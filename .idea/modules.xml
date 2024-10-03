@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Exeptions.iml" filepath="$PROJECT_DIR$/Exeptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sem2 task1/sem2 task1.iml" filepath="$PROJECT_DIR$/sem2 task1/sem2 task1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sem2 task2/sem2 task2.iml" filepath="$PROJECT_DIR$/sem2 task2/sem2 task2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sem2 task3/sem2 task3.iml" filepath="$PROJECT_DIR$/sem2 task3/sem2 task3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sem2 task4/sem2 task4.iml" filepath="$PROJECT_DIR$/sem2 task4/sem2 task4.iml" />
     </modules>
   </component>
 </project>

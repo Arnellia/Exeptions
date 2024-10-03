@@ -1,15 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2860094a-0089-4914-97e8-fb0c3e703730" name="Changes" comment="" />
+    <list default="true" id="2860094a-0089-4914-97e8-fb0c3e703730" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/sem2 task1/DateValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sem2 task1/sem2 task1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sem2 task2/sem2 task2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sem2 task2/src/PalindromeChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sem2 task2/src/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sem2 task3/sem2 task3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sem2 task3/src/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sem2 task3/src/StringSorter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sem2 task4/sem2 task4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sem2 task4/src/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sem2 task4/src/Statistics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DateValidator.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Arnellia&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Arnellia/1Exeptions1.git&quot;,
+    &quot;accountId&quot;: &quot;41eb7a2a-44ab-4523-a1bd-eabd4d1bdd60&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2mwDVqopl7asbOFrltwG0lb1HwP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -19,9 +59,18 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/sem2 task2" />
+      <recent name="$PROJECT_DIR$/sem2 task1" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
